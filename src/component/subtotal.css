@@ -1,0 +1,20 @@
+.subtotal{
+    width: 200px;
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.927);
+    height: 200px;
+}
+
+.subtotals_info{
+    margin-left: 20px;
+}
+
+.subtotals_info > button{
+    background-color: #f0c14b;
+    margin-top: 30px;
+    /* margin-left: 5px;
+    margin-right:5px ; */
+    border-radius: 5px;
+    /* padding: 5px; */
+    width: 170px;
+}

@@ -1,0 +1,40 @@
+.singin{
+    border: 2px solid rgb(201, 197, 197);
+    /* display: flex; */
+    width: 25%;
+    margin: auto;
+    height: 420px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.signin_img{
+    width: 50%;
+    margin: auto;
+}
+.singin > form{
+    margin-top: 10px;
+}
+
+.singin_button{
+    background-color: #f0c14b ;
+    width: 100%;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+.singin_button2{
+    background-color: #e0dcd4 ;
+    width: 100%;
+    border-radius: 3px;
+    margin-top: 7px;
+
+
+}
+
+.signin_para{
+    font-size: 13px;
+    line-height:100%;
+    font-weight: bold;
+    /* border: 2px solid red; */
+}

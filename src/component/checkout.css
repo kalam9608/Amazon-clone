@@ -1,0 +1,20 @@
+.checkout_ad{
+    object-fit: contain;
+    width:100%;
+    margin-bottom: 10px;
+
+}
+
+
+.shopingbasket_heading{
+    margin-top: -10px;
+    margin-bottom: 20px;
+
+}
+
+.checkout{
+    display: flex;
+    width: 98%;
+    margin-left: 10px;
+
+}
